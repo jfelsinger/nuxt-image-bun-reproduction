@@ -1,0 +1,15 @@
+image: gitpod/workspace-bun
+
+tasks:
+  - name: Setup project and run it
+    init: |
+      bun install
+      bun run build
+
+    command: |
+      # Run project
+      bun run .output/server/index.mjs
+
+ports:
+  - port: 3000
+    onOpen: open-preview
