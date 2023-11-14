@@ -6,5 +6,6 @@ Steps to reproduce:
 4. Build: `bunx nuxi@latest build` or `bun run build`
 5. Try to run deployment package: `bun .output/server/index.mjs`
 
+---
 
-* [Gitpod Link](https://gitpod.io/#https://github.com/jfelsinger/nuxt-image-bun-reproduction)
+[Gitpod Link](https://gitpod.io/#https://github.com/jfelsinger/nuxt-image-bun-reproduction)
