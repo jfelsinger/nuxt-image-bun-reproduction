@@ -7,4 +7,4 @@ Steps to reproduce:
 5. Try to run deployment package: `bun .output/server/index.mjs`
 
 
-* [Gitpod Link](gitpod.io/#https://github.com/jfelsinger/nuxt-image-bun-reproduction)
+* [Gitpod Link](https://gitpod.io/#https://github.com/jfelsinger/nuxt-image-bun-reproduction)
